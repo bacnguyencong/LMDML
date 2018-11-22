@@ -9,9 +9,10 @@ For any question, please contact Bac Nguyen (Bac.NguyenCong@ugent.be).
 <img src="figs/obj.png" style="max-width:100%; width: 30%">
 <p>
 <img src="figs/left-1.png" width="400"> <img src="figs/right-1.png" width="400">
+  
 <em> Illustration of the intuition behind LMDML. Examples belonging to
-the same class are denoted in the same color and style. (a) A separating ellipse
-with a small margin. (b) A separating ellipse with a large margin. </em>
+the same class are denoted in the same color and style. (Left) A separating ellipse
+with a small margin. (Right) A separating ellipse with a large margin. </em>
 </p>
   
 ## Abstract
