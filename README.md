@@ -8,7 +8,7 @@ For any question, please contact Bac Nguyen (Bac.NguyenCong@ugent.be).
 
 <img src="figs/obj.png" style="max-width:100%; width: 30%">
 
-<img src="figs/left-1.png" style="max-width:100%; width: 30%"> <img src="figs/right-1.png" style="max-width:100%; width: 30%">
+<img src="figs/left-1.png" style="max-width:100%; width: 10%"> <img src="figs/right-1.png" style="max-width:100%; width: 10%">
 
 ## Abstract
 The key to success of many machine learning and pattern recognition algorithms is the way of computing distances between the input data. In this paper, we propose a large-margin-based approach, named Large-Margin Distance Metric Learning (LMDML), for learning a  Mahalanobis distance metric. LMDML employs the principle of margin maximization to learn the distance metric with the goal of improving $k$-nearest-neighbor (\mbox{$k$-NN}) classification. The main challenge of distance metric learning is the positive semidefiniteness constraint on the Mahalanobis matrix. Semidefinite programming is commonly used to enforce this constraint, but it becomes computationally intractable on large-scale data sets. To overcome this limitation, we develop an efficient algorithm based on stochastic gradient descent (SGD). Our algorithm can avoid the computations of the full gradient and ensure that the learned matrix remains within the positive semidefinite (PSD) cone after each iteration. Extensive experiments show that the proposed algorithm is scalable to large data sets and  outperforms other state-of-the-art distance metric learning approaches regarding classification accuracy and training time.
